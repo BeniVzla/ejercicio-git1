@@ -1,4 +1,6 @@
 ## nombre
 
 1. Jose
-porbando git branch
+probando git branch
+
+cambiando de rama probando conflictos
